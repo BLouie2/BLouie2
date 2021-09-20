@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BLouie2
 - 👀 I’m interested in growing analytics sector of the Sports industry
 - 🌱 I’m currently learning Python, R, SQL (postgres) and MS in Statistics
-- 💞️ I’m looking to collaborate on projects centered on player performance metrics
+- 👨🏻‍💻 I’m looking to collaborate on projects centered on player performance metrics
 - 📫 How to reach me @brianlouie1 on Twitter. DMs are open
 
 <!---
